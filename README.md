@@ -9,11 +9,6 @@
 
 ---
 
-<div id="badges"  align="center">
-  <img src="https://img.shields.io/badge/TikTok-white?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -28,7 +23,7 @@
 
 - :zap: In my free time, I play video games and solve coding challenges!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BradleyReynolds-blue?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/bradley-reynolds-8b0760235/)]
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BradleyReynolds-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-reynolds-8b0760235/)
 
 ---
 
