@@ -6,6 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  align="center" width="30px"/>
 </h3>
 <h3 align="center">I'm Bradley Reynolds, a web developer</h3>
+
+---
+
 <div id="badges"  align="center">
   <img src="https://img.shields.io/badge/TikTok-white?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -25,7 +28,7 @@
 
 - :zap: In my free time, I play video games and solve coding challenges!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BradleyReynolds-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BradleyReynolds-blue?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/bradley-reynolds-8b0760235/)]
 
 ---
 
