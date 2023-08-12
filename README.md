@@ -1,31 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iDyF9dOL6nG4uS2S1z/giphy.gif" width="250"/>
-</div>
-<h3 align="center">
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  align="center" width="30px"/>
-</h3>
 <h3 align="center">I'm Bradley Reynolds, a web developer</h3>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### 👦: About Me :
-
-- :telescope: I’m looking for work as a Web Developer.
-
-- :seedling: Learning the latest technologies to keep up with the industry!
-
-- :zap: In my free time, I play video games and solve coding challenges!
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BradleyReynolds-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-reynolds-8b0760235/)
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
